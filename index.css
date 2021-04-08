@@ -1,0 +1,23 @@
+body {
+	background-color: #232528;
+	font-family: Montserrat;
+	margin: 25px;
+}
+
+h1 {
+	color: #EAF6FF;
+	font-weight: bolder;
+	border-bottom: 1px solid #eaf6ff;
+	width: 48%;
+}
+
+.info {
+	color: #EAF6FF;
+	font-weight: 300;
+	width: 48%;
+}
+
+.info p {
+	line-height: 30px;
+}
+

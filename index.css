@@ -6,7 +6,6 @@ body {
 }
 
 h1 {
-	color: #EAF6FF;
 	font-weight: bolder;
 	border-bottom: 1px solid #eaf6ff;
 	width: 48%;
@@ -24,4 +23,15 @@ h1 {
 .hab p {
 	line-height: 30px;
 	font-weight: bold;
+}
+
+
+@media screen and (max-width: 768px){
+	body {
+		background-color: #eaf6ff;
+		color: #232528;
+	}
+	h1 {
+		border-bottom: 1px solid #232528;
+	}
 }

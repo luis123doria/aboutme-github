@@ -2,6 +2,7 @@ body {
 	background-color: #232528;
 	font-family: Montserrat;
 	margin: 25px;
+	color: #EAF6FF;
 }
 
 h1 {
@@ -11,13 +12,16 @@ h1 {
 	width: 48%;
 }
 
-.info {
-	color: #EAF6FF;
+.bio, .hab {
 	font-weight: 300;
 	width: 48%;
 }
 
-.info p {
+.bio p {
 	line-height: 30px;
 }
 
+.hab p {
+	line-height: 30px;
+	font-weight: bold;
+}
